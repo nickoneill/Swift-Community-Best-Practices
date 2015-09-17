@@ -172,7 +172,7 @@ class Example {
 }
 ```
 
-If you add a `set` or a `didSet` to the property then you will need to explicitly provide a `get`.
+If you add a `set` to the property then you will need to explicitly provide a `get`.
 
 ```swift
 class Person {
